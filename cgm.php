@@ -1,16 +1,16 @@
 <?php
 /*
 Plugin Name: Comment Genius
-Plugin URI: http://getbutterfly.com/wordpress-plugins/comment-genius/
+Plugin URI: http://getbutterfly.com/wordpress-plugins-free/
 Description: Comment Genius allows the user to create a customizable lightbox popup, suitable for Facebook Like/Share, Twitter Tweet, Google AdSense Ads and more. The popup is a pure textarea, in order to allow for source code copy/paste and it supports HTML code for custom text content.
-Version: 1.2
+Version: 1.2.1
 Author: Ciprian Popescu
 Author URI: http://getbutterfly.com/
 */
 
 define('CGM_PLUGIN_URL', WP_PLUGIN_URL . '/' . dirname(plugin_basename(__FILE__)));
 define('CGM_PLUGIN_PATH', WP_PLUGIN_DIR . '/' . dirname(plugin_basename(__FILE__)));
-define('CGM_PLUGIN_VERSION', '1.2');
+define('CGM_PLUGIN_VERSION', '1.2.1');
 
 function cgm_init() {
     add_option('cg-enabled', 1);
