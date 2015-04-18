@@ -54,10 +54,12 @@ if(isset($_POST['submit'])) {
                     </p>
 
                     <p>Comment <b>Genius</b> allows the user to create a customizable lightbox popup (width, height, properties), suitable for Facebook Like/Share, Twitter Tweet, Google AdSense Ads and more. The popup is a pure textarea, in order to allow for source code copy/paste and it supports HTML code for custom text content.</p>
-
-                    <h4>Help and support</h4>
-                    <p>Visit the <b>General Settings</b> tab and set up your plugin. The default/recommended settings are already in place.</p>
-                    <p>Check the <a href="http://getbutterfly.com/wordpress-plugins/comment-genius/" rel="external">official web site</a> for news, updates and general help.</p>
+                </div>
+            </div>
+            <div class="postbox">
+                <div class="inside">
+                    <p>For support, feature requests and bug reporting, please visit the <a href="//getbutterfly.com/" rel="external">official website</a>.</p>
+                    <p>&copy;<?php echo date('Y'); ?> <a href="//getbutterfly.com/" rel="external"><strong>getButterfly</strong>.com</a> &middot; <a href="//getbutterfly.com/forums/" rel="external">Support forums</a> &middot; <a href="//getbutterfly.com/trac/" rel="external">Trac</a> &middot; <small>Code wrangling since 2005</small></p>
                 </div>
             </div>
         </div>
