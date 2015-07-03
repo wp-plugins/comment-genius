@@ -4,7 +4,7 @@ Tags: comment, popup
 License: GPLv3
 Requires at least: 4.0
 Tested up to: 4.2.2
-Stable tag: 1.2.3
+Stable tag: 1.2.4
 
 == Description ==
 Comment Genius allows the user to create a customizable lightbox popup, suitable for Facebook Like/Share, Twitter Tweet, Google AdSense Ads and more. The popup is a pure textarea, in order to allow for source code copy/paste and it supports HTML code for custom text content.
@@ -17,7 +17,7 @@ Comment Genius allows the user to create a customizable lightbox popup, suitable
 
 == Changelog ==
 
-= 1.2.3 =
+= 1.2.4 =
 * DEV: Added GitHub linking
 
 = 1.2.1 =
